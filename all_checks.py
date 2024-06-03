@@ -20,7 +20,7 @@ def main():
         print("Disk full.")
         sys.exit(1)
     
-    print("Everything ok")
+    print("Everything is ok")
     sys.exit(0)
 
 main()
